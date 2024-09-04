@@ -1,0 +1,4 @@
+In python you can compute many things
+In python you can iterate through many things
+In python you can make games
+In python you can access multiple files at the same time 
